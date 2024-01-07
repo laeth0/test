@@ -1,0 +1,68 @@
+
+.Pricing .row{
+    display: flex;
+    align-content: space-between;
+}
+.Pricing .row p{
+    width: 70%;
+}
+.secpot{
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    padding: 1%;
+    align-content: space-between;
+}
+
+.secpot a{
+   
+    text-decoration: none;
+   
+    color:  rgba(38, 38, 38, 1);
+    
+}
+   
+.secpot .sec1{
+background-color:#FF9500;
+padding: 1%;
+}
+.secpot .sec2{
+    padding: 1%;
+
+}
+.month{
+    display: flex;
+    text-align: center;
+    align-self: flex-end;
+}
+.ava{
+    width: 100%;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    align-self: stretch;
+}
+.acc{
+    display: flex;
+    width: 100%;
+
+}
+.acc img{
+   
+    background-color: rgba(255, 244, 229, 1);
+    width: 8%;
+    height: 8%;
+}
+.Pricing .row:nth-child(1){
+    align-content: space-between;
+   
+}
+.Pricing .row:nth-child(2){
+    text-align: center;
+   
+    
+}
+.get{
+    background-color: rgba(255, 149, 0, 1);
+}
