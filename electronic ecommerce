@@ -1,0 +1,590 @@
+{
+	"info": {
+		"_postman_id": "8ef25245-eb3f-45f4-ac7a-238d2fdd3503",
+		"name": "Ecommerce",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27536028"
+	},
+	"item": [
+		{
+			"name": "Category",
+			"item": [
+				{
+					"name": "Create Category",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\":\"laejjth\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Category/CreateCategory",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Category",
+								"CreateCategory"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get all Category",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Category/GetAllCategory",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Category",
+								"GetAllCategory"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Category",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Category/DeleteCategory/1",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Category",
+								"DeleteCategory",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Product",
+			"item": [
+				{
+					"name": "Get All Products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Product/GetAllProducts",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"GetAllProducts"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Product",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "name",
+									"value": "laeth",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/Users/BisanCo/Desktop/Screenshots/Screenshot 2024-03-28 010912.png"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{URL}}/api/Product/CreateProduct",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"CreateProduct"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Product By id",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiJmOGY5NzBmZS1hNDk4LTQyZDYtOTUzZC0xM2U4MzBiZDU0MmYiLCJlbWFpbCI6ImxhZXRoMUBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsIm5iZiI6MTcxMTM4OTcyNCwiZXhwIjoxNzIxOTMwNTI0LCJpYXQiOjE3MTEzODk3MjR9.0hJgz2ga3u9oIJVXEQIR2HFP5R1PQdx7gqMemtAJo3s",
+								"description": "Admin",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Product/GetProductById/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"GetProductById",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Products By Category Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Product/GetProductsByCategoryId/1",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"GetProductsByCategoryId",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Product",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Product/DeleteProduct/5",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"DeleteProduct",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Product Image",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Product/GetImage/cbfa10cd-8a9e-42f4-bc03-4fb1fa3efe95Screenshot 2024-03-28 010912.png",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Product",
+								"GetImage",
+								"cbfa10cd-8a9e-42f4-bc03-4fb1fa3efe95Screenshot 2024-03-28 010912.png"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Authontication",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userName\": \"laeth1\",\r\n  \"email\": \"laeth1@gmail.com\",\r\n  \"password\": \"La@21510568\",\r\n  \"phoneNumber\": \"123\",\r\n  \"isAgree\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Account/Register",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"Register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"laeth1@gmail.com\",\r\n  \"password\": \"La@21510568\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Account/Login",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"Login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create a new role",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"User\"\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Account/CreateRole",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"CreateRole"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create a new user",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userName\": \"laeth\",\r\n  \"email\": \"laeth12@gmail.com\",\r\n  \"password\": \"123456789\",\r\n  \"phoneNumber\": \"123456789\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Account/Register",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"Register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Roles",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Account/GetAllRoles",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"GetAllRoles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/Account/GetAllUsers",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"GetAllUsers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add User To Role",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userName\": \"laeth\",\r\n  \"roleName\": \"User\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/api/Account/AddUserToRole",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Account",
+								"AddUserToRole"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Cart",
+			"item": [
+				{
+					"name": "Get Cart Items",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/GetCartItems",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"GetCartItems"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Item To Cart",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/AddToCart/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"AddToCart",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Increse Item Quantity",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/IncreseItemQuantity/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"IncreseItemQuantity",
+								"2"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": "",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Decrease Quantity",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/DecreaseQuantity/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"DecreaseQuantity",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Remove Cart Item",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/RemoveCartItem/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"RemoveCartItem",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Clear Cart",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjRiMmI5OTlkLTY3M2MtNDk3Ni1iZGQyLWJmNmVkNWQyMTY5YSIsInVuaXF1ZV9uYW1lIjoibGFldGgxIiwiZW1haWwiOiJsYWV0aDFAZ21haWwuY29tIiwibmJmIjoxNzExNTc3ODc0LCJleHAiOjE3MjIxMTg2NzQsImlhdCI6MTcxMTU3Nzg3NH0.KjWSD9furRDbNNeUWEauI22FHpQAj_cMm-0cHx06lhw",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/api/Cart/ClearCart",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"Cart",
+								"ClearCart"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Welcome Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}",
+					"host": [
+						"{{URL}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
