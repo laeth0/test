@@ -5,8 +5,7 @@ using namespace chrono;
 signed main(void) {
     system("cls");
     auto start = high_resolution_clock::now();
-
-    
+q
 
     auto end = high_resolution_clock::now();
     cout << duration<double, milli>(end - start).count() << "ms" << '\n';
