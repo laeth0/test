@@ -1,0 +1,60 @@
+*{
+    margin:0;
+}
+.iphone9{
+    float:left;
+    width:21%;
+    border:solid 0.1px;
+    margin-left:7px;
+    margin-bottom:7px; 
+    padding:4px; 
+}
+.clearfix{
+    clear:both;
+}
+.fa-regular{
+    background-color:white;
+
+
+    border:solid dodgerblue ;
+    color:dodgerblue;
+    padding:1px;
+}
+button{
+   
+   padding-right: 92px;
+   padding-left:93px;
+   padding-top:4px;
+    background-color: blue;
+    color:white;
+    margin-left:3px;
+    padding-top:4px;
+ 
+}
+.products{
+    margin-left:70px;
+}
+p{
+    width:220px;
+   
+}
+h1{
+    margin-bottom:50px;
+}
+div p{
+    margin-bottom:2px;
+}
+div a{
+    margin-bottom:2px;
+}
+
+div .green{
+
+    color:seagreen;
+}
+div .red{
+    color:red;
+    text-decoration:line-through;
+}
+
+
