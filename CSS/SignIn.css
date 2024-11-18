@@ -1,0 +1,77 @@
+@import url('../CSS/main.css');
+
+body{
+    background: linear-gradient(to right,rgb(255, 192, 203,0.8),rgb(255, 192, 203,0.2));
+}
+main{
+    height:550px;
+}
+h1{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding:40px 0px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height:400px;
+    padding:0px 10px 0px 10px;
+    border-radius: 20px;
+    width:fit-content;
+    background: linear-gradient(rgba(255, 255, 255, 0.5),rgba(255, 255, 255, 0.5));
+    border: white solid 3px;
+} 
+
+form input{
+    width:400px;
+    height:40px;
+    background-color: rgb(228, 226, 226);
+    font-size: 20px;
+    border: rgb(228,226,226) 1px solid;
+    border-radius: 10px;
+    margin-top: 10;
+}
+
+form #submit_login{
+    width:200px;
+    height:40px;
+    background-color: rgb(228, 226, 226);
+    font-size: 20px;
+    border: rgb(228,226,226) 1px solid;
+    border-radius: 10px;
+    margin-top: 10;
+}
+
+
+#submit_login:hover{
+    background-color: black;
+    color:white;
+}
+
+form a{
+    font-size: 20px;
+    transition: font-size,0.6s;
+}
+form a:hover{
+    font-size: 24px;
+}
+
+
+@media screen and (max-width: 460px) {
+    form input{
+        width:200px;
+    }
+    form{
+        width:100%;
+    }
+}

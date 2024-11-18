@@ -1,0 +1,89 @@
+@import url("../CSS/base.css");
+
+.notification{
+    background-color: #377DFF;
+    display: flex;
+    justify-content: space-between;
+    padding:0px 20px;
+}
+
+.notification .container{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+}
+
+/*...............................................This CSS for the navbar.......................................*/
+
+nav a{
+    color:grey;
+}
+
+nav a:hover{
+    color: black;
+    font-size: 20px;
+    transition:font-size,.75s;
+}
+
+#icons{
+    display: flex;
+    align-items: center;
+    gap:20px;   
+    margin-left: auto;
+}
+
+#icons i{
+    font-size: 20px;
+}
+
+
+/****************************************************************************************************************************/
+
+footer {
+    background-color: #141718;
+    padding:50px 0px;
+    font-size: 14px;
+}
+
+footer .row:nth-child(2){
+    border-top: gray solid 2px;
+    padding:20px 0px 0px 0px;
+    display: flex;
+    gap:20px;
+}
+
+footer .container{
+    display: flex;
+    flex-direction: column;
+    gap:40px;
+}
+
+footer h5{
+    color:white;
+    font-size: 20px;
+}
+
+footer a{
+    color : white;
+}
+
+footer p{
+    color:white;
+}
+
+footer i{
+    color:white;
+    width:20px;
+    height:20px;
+}
+
+/* footer .d-flex:nth-child(2){
+    padding: 0;
+} */
+
+@media (max-width: 410px){
+    footer .container{
+        width: 100%;
+    }
+
+}

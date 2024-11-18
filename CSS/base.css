@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+  --mainColor: #545BE8 ;
+  --mainFont:"Poppins", sans-serif;
+  --subFont:"Inter" , sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(48, 9, 84);  
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+  list-style: none;
+}
+
+.container{
+  width: calc(100% - 140px);
+  margin: auto;
+}
+
+.row{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+

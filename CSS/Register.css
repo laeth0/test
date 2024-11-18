@@ -1,0 +1,84 @@
+@import url('../CSS/main.css');
+
+body{
+    background: linear-gradient(to right,rgb(255, 192, 203,0.8),rgb(255, 192, 203,0.2));
+}
+main{
+    height:550px;
+}
+h1{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding:40px 0px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height:500px;
+    padding:0px 10px 0px 10px;
+    border-radius: 20px;
+    width:fit-content;
+    background: linear-gradient(rgba(255, 255, 255, 0.5),rgba(255, 255, 255, 0.5));
+    border: white solid 3px;
+} 
+
+form input{
+    width:400px;
+    height:40px;
+    background-color: rgb(228, 226, 226);
+    font-size: 20px;
+    border: rgb(228,226,226) 1px solid;
+    border-radius: 10px;
+    padding:0px 0px 0px 10px;
+}
+
+#submit_signup:hover{
+    background-color: black;
+    color:white;
+}
+
+form div input{
+    width:30px;
+    height:30px;
+}
+
+form a{
+    font-size: 20px;
+    transition: font-size,0.6s;
+}
+form a:hover{
+    font-size: 24px;
+}
+
+.GENDER{
+    display: flex;
+    gap:10px;
+}
+
+@media (max-width: 460px) {
+    form input{
+        width:100%;
+    }
+    .GENDER{
+        width:100%;
+    }
+
+    .GENDER input{
+        width:100%;
+    }
+    .GENDER label{
+        width:100%;
+    }
+}
+
+
