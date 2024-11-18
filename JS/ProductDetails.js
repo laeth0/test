@@ -177,7 +177,7 @@ const displayDolls= function (page=1){
     if(dolls.length==0){
         document.querySelector('.products .container').innerHTML = `
         <div class="d-flex justify-content-center align-items-center">
-        <img src='../Images/products/no products yet.WEBP' alt="cartoon bear saying to products yet" class="images" />
+        <img src='../Images/products/noproduc.webp' alt="cartoon bear saying to products yet" class="images" />
         </div>`;
         return;
     }
