@@ -128,7 +128,7 @@ const displaySweaters=function (page=1){
     if(sweaters.length==0){
         document.querySelector('.products .container').innerHTML = `
         <div class="d-flex justify-content-center align-items-center">
-        <img src='Images/products/no products yet.WEBP' alt="cartoon bear saying to products yet" class="images" />
+        <img src='../Images/products/noproduc.webp' alt="cartoon bear saying to products yet" class="images" />
         </div>`;
         return;
     }
@@ -153,7 +153,7 @@ const displayScarves= function (page=1){
     if(scarves.length==0){
         document.querySelector('.products .container').innerHTML = `
         <div class="d-flex justify-content-center align-items-center">
-        <img src='Images/products/no products yet.WEBP' alt="cartoon bear saying to products yet" class="images" />
+        <img src='../Images/products/noproduc.webp' alt="cartoon bear saying to products yet" class="images" />
         </div>`;
         return;
     }
@@ -200,7 +200,7 @@ const displayHooks= function (page=1){
     if(hooks.length==0){
         document.querySelector('.products .container').innerHTML = `
         <div class="d-flex justify-content-center align-items-center">
-        <img src='Images/products/no products yet.WEBP' alt="cartoon bear saying to products yet" class="images" />
+        <img src='../Images/products/noproduc.webp' alt="cartoon bear saying to products yet" class="images" />
         </div>`;
         return;
     }
@@ -222,7 +222,7 @@ const displayYarns= function (page=1){
     if(yarns.length==0){
         document.querySelector('.products .container').innerHTML = `
         <div class="d-flex justify-content-center align-items-center">
-        <img src='Images/products/no products yet.WEBP' alt="cartoon bear saying to products yet" class="images" />
+        <img src='../Images/products/noproduc.webp' alt="cartoon bear saying to products yet" class="images" />
         </div>`;
         return;
     }
