@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BisanCo\\Desktop\\project pieces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|c:\\users\\bisanco\\desktop\\project pieces\\project\\controllers\\piececontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|solutionrelative:project\\controllers\\piececontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|c:\\users\\bisanco\\desktop\\project pieces\\project\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|solutionrelative:project\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|c:\\users\\bisanco\\desktop\\project pieces\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|solutionrelative:project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|c:\\users\\bisanco\\desktop\\project pieces\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|c:\\users\\bisanco\\desktop\\project pieces\\project\\migrations\\20240930155755_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1120ADC-06FB-4F3F-9B44-B949725607A7}|project\\project.csproj|solutionrelative:project\\migrations\\20240930155755_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PieceController.cs",
+              "DocumentMoniker": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\PieceController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\PieceController.cs",
+              "ToolTip": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\PieceController.cs",
+              "RelativeToolTip": "project\\Controllers\\PieceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:12:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Models\\Piece.cs",
+              "RelativeDocumentMoniker": "project\\Models\\Piece.cs",
+              "ToolTip": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Models\\Piece.cs",
+              "RelativeToolTip": "project\\Models\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:09:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\userController.cs",
+              "ToolTip": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\userController.cs",
+              "RelativeToolTip": "project\\Controllers\\userController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:03:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:03:29.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240930155755_first.cs",
+              "DocumentMoniker": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Migrations\\20240930155755_first.cs",
+              "RelativeDocumentMoniker": "project\\Migrations\\20240930155755_first.cs",
+              "ToolTip": "C:\\Users\\BisanCo\\Desktop\\project pieces\\project\\Migrations\\20240930155755_first.cs",
+              "RelativeToolTip": "project\\Migrations\\20240930155755_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:57:55.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

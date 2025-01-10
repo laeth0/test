@@ -1,0 +1,22 @@
+﻿@model user
+
+<link rel="stylesheet" href="~/css/signup.css">
+<form asp-action="Add" asp-controller="user" method="post">
+
+    <input type="hidden" asp-for="UserId" />
+    <div>
+        <label asp-for="UserName">User Name</label>
+        <input asp-for="UserName" />
+    </div>
+    <div>
+        <label asp-for="UserEmail">User Emaile</label>
+        <input asp-for="UserEmail" />
+    </div>
+    <div>
+        <label asp-for="Password">password</label>
+        <input type="password" asp-for="Password" />
+    </div>
+
+    <button type="submit">Sign up  </button>
+
+</form>

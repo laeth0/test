@@ -1,0 +1,390 @@
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.exe
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\UnclePC\OneDrive\سطح المكتب\aseel\رابعة\ويب\project\project\project\obj\Debug\net6.0\ref\project.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\appsettings.Development.json
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\appsettings.json
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.exe
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.deps.json
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\project.pdb
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Humanizer.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\downloads\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.dll
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\refint\project.dll
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.pdb
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\downloads\web project\web project\project\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.exe
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\UnclePC\Downloads\web project SEL\web project\web project\project\project\obj\Debug\net6.0\ref\project.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\appsettings.Development.json
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\appsettings.json
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.exe
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.deps.json
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.pdb
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Humanizer.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\downloads\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.dll
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\refint\project.dll
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.pdb
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\downloads\web project (1)\web project\web project\project\project\obj\Debug\net6.0\ref\project.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\appsettings.Development.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\appsettings.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.exe
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.deps.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\project.pdb
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Humanizer.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.build.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.development.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\refint\project.dll
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.pdb
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+E:\AAUP Courses\Web Programming\web project (1)\web project\web project\project\project\obj\Debug\net6.0\ref\project.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\appsettings.json
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.exe
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\project.pdb
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\project\project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.csproj.Up2Date
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.dll
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.pdb
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\project\project\obj\Debug\net6.0\ref\project.dll

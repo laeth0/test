@@ -1,0 +1,17 @@
+﻿@model user
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Welcome @Model.UserName</h1>
+<h2> your Email is @Model.UserEmail</h2>
+<h2> your password is @Model.Password</h2>
+<a asp-action="Changepassword">Change Password</a>
+<br />
+
+<a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="Welcome">back to home</a>
+

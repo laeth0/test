@@ -1,0 +1,27 @@
+@model user
+
+
+<link rel="stylesheet" href="~/css/Login.css">
+
+<form asp-action="login" asp-controller="user" method="post">
+
+    <div>
+        <label for="UserEmail">User Email</label>
+        <input id="UserEmail" type="text" name="uEmail" />
+    </div>
+   
+    <div>
+        <label for="Password">password</label>
+        <input type="password" id="Password" name="upass"/>
+    </div>
+   
+    <button type="submit">Login</button>
+
+    <p class="signup-text">
+        Don't have an account?
+    </p>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="add">Sign up</a>
+    </li>
+
+</form>

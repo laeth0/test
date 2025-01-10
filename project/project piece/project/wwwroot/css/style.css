@@ -1,0 +1,183 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(250, 250, 250);
+}
+
+.container {
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+/* navbar css*/
+
+.navbar {
+    padding: 20px;
+}
+
+
+.logo,
+.list,
+.icons,
+.button {
+    float: left;
+}
+
+
+.logo {
+    width: 30%;
+    display: inline-block;
+}
+
+    /* Ensure the anchor tag and its children are aligned inline */
+    .logo a {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        text-decoration: none;
+    }
+
+    .logo img {
+        width: 60px;
+        height: 26px;
+    }
+
+    .logo p {
+        line-height: 2;
+        font-size: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 700;
+        color: #333;
+    }
+
+
+.button {
+    border: 1px solid tan;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+    .button a {
+        text-transform: capitalize;
+        color: #333;
+    }
+
+.fa-bars {
+    display: none;
+}
+
+/*header css*/
+.header_img {
+    float: left;
+    width: 40%;
+}
+
+.header_contant {
+    float: right;
+    width: 60%;
+    padding-left: 80px;
+    padding-top: 180px;
+}
+
+.header_img img {
+    width: 100%;
+}
+
+.first-p {
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 20px
+}
+
+.second-p {
+    color: #333;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 15px 0;
+    font-size: 40px;
+    font-family: 'Parisienne', cursive;
+    font-weight: 700;
+}
+
+.header .button {
+    background-color: tan;
+    font-size: 16px;
+    margin-right:20px;
+}
+
+    .header .button a {
+        color: white;
+    }
+
+.main-product {
+    margin-top: 60px;
+}
+
+.item {
+    float: left;
+    width: 32%;
+    margin-right: 10px;
+}
+
+    .item img {
+        width: 100%;
+    }
+
+/*trunding*/
+.trunding {
+    margin-top: 60px;
+}
+
+
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.custom {
+    border-bottom: 3px solid tan;
+}
+
+.product {
+    float: left;
+    width: 25%;
+    padding: 0 20px;
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+
+    .product img {
+        width: 100%;
+    }
+
+.catogry {
+    padding: 10px;
+    color: #333;
+}
+
+h3 {
+    font-size: 10px!important;
+    padding-bottom: 18px;
+}
+
+.price {
+    font-weight: bold;
+    color: tan;
+}

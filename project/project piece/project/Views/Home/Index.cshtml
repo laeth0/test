@@ -1,0 +1,28 @@
+﻿@model List<Piece>
+
+
+<h1> jewelry</h1>
+
+<p class="second-p">"Jewelry is not just an ornament; it is a story told through generations. At our store, we transform dreams into unique pieces that reflect the brilliance of your spirit and the beauty of timeless moments."</p>
+
+<a asp-controller="user" asp-action="Login">Start Shoping</a>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>PieceID</th>
+        <th>PieceName</th>
+        <th>PiecePrice</th>
+    </tr>
+    @foreach (Piece p in Model)
+    {
+        <tr>
+            <td>@p.PieceID</td>
+            <td>@p.PieceName</td>
+            <td>@p.Pieceprice</td>
+        </tr>
+    }
+
+</table>
+
+
+

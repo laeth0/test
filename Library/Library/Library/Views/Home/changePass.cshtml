@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Settings Page";
+}
+
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="text-center">
+                <h1>Change Password</h1>
+            </div>
+
+            <div class="tab-content">
+                <div class="tab-pane fade show active">
+                    <form method="post">
+                        <div class="form-outline mb-4">
+                            <label class="form-label" for="oldpass">Old Password</label>
+                            <input type="password" id="oldpass" class="form-control" name="oldpass" placeholder="Enter your Old Password" required />
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            <label class="form-label" for="newpass">New Password</label>
+                            <input type="password" id="newpass" class="form-control" name="newpass" placeholder="Enter your New Password" required />
+                        </div>
+
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-outline-success btn-block mb-4">Change Password</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

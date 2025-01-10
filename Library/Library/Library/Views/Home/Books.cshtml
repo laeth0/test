@@ -1,0 +1,90 @@
+﻿@model Book
+
+
+<style>
+
+    .table {
+        color: #fff;
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #437498;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="text-center mb-4">Books</h1>
+            <form method="post" asp-action="Books">
+                <div asp-validation-summary="All" class="mb-3">
+                    <div class="mb-3">
+                        <label asp-for="bookTitle" class="form-label">Book Name</label>
+                        <input class="form-control" type="text" asp-for="bookTitle" placeholder="Book Name">
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="bookDesc" class="form-label">Book Description</label>
+                        <textarea class="form-control" placeholder="Book Description" asp-for="bookDesc"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="AuthorId" class="form-label">Author</label>
+                        <select asp-for="AuthorId" class="form-select">
+                            @foreach (var k in ViewBag.allAuthor) 
+                            {
+                                <option value="@k.AuthorId">@k.authorName</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="bookWritingDate" class="form-label">Publish Date</label>
+                        <input class="form-control" type="date" asp-for="bookWritingDate">
+                    </div>
+                    <button type="submit" class="btn btn-outline-primary">Add Book</button>
+                    <button type="reset" class="btn btn-outline-secondary">Clear</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form method="post" asp-action="searchBook" class="d-flex mb-3">
+                <lable>Search for specific book</lable>
+                <input type="search" placeholder="enter Book Title" class="form-control me-2" name="searchKey">
+                <button class="btn btn-outline-primary" type="submit">Search</button>
+            </form>
+
+            <div class="table-responsive">
+                <table class="table table-dark table-striped">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Author</th>
+                            <th>Published On</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var a in ViewBag.allBooks)
+                        {
+                            <tr>
+                                <td>@a.BookId</td>
+                                <td>@a.bookTitle</td>
+                                <td>@a.bookDesc</td>
+                                <td>@a.Author.authorName</td>
+                                <td>@a.bookWritingDate</td>
+                                <td>
+                                    <a class="btn btn-warning" asp-action="deleteBook" asp-route-id="@a.BookId">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

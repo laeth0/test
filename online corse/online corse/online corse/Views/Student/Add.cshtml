@@ -1,0 +1,41 @@
+﻿@model Student
+
+<form asp-action="Add" asp-controller="Student" method="post">
+    <input type="hidden" asp-for="StudentId"/>
+
+    <div>
+        <label asp-for="Name"> Student Name </label>
+        <input asp-for="Name"/>
+    </div>
+    <br />
+    <br />
+
+    <div>
+        <label asp-for="Average"> Average</label>
+        <input asp-for="Average" />
+    </div>
+    <br />
+    <br />
+
+    <div>
+        <label asp-for="CorseId"> Course</label>
+        <select asp-for="CorseId">
+            <option value="">Select your Course</option>
+            @foreach (Corse c in ViewBag.Corses)
+            {
+                <option value="@c.CorseId">@c.CorseName</option>
+            }
+        </select>
+    </div>
+    <br />
+    <br />
+
+    <div>
+        <label asp-for="Password"> Password</label>
+        <input type="password" asp-for="Password"/>
+    </div>
+    <br />
+    <br />
+
+    <button type="submit"> Add Student</button>
+</form>

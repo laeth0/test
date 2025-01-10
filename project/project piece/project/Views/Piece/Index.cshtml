@@ -1,0 +1,28 @@
+﻿@model List<Piece>
+
+
+<form method="get"asp-controller="Piece" asp-action="search">
+    Enter part of the piece name 
+    <input type="text"name="searchKey"/>
+    <button type="submit">search</button>
+</form>
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>PieceID</th>
+        <th>PieceName</th>
+        <th>PiecePrice</th>
+        <th>Worker </th>
+        <th></th>
+    </tr>
+    @foreach (Piece p in Model)
+    {
+        <tr>
+            <td>@p.PieceID</td>
+            <td>@p.PieceName</td>
+            <td>@p.Pieceprice</td>
+           <td>@p.user.UserName</td>
+            <td><a asp-action="Delete" asp-controller="Piece" asp-route-id="@p.PieceID">Delete item </a></td>
+        </tr>
+    }
+
+</table>

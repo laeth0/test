@@ -1,0 +1,53 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Sign Up Page";
+}
+
+<style>
+
+</style>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="text-center">
+                <h1>Register</h1>
+            </div>
+
+            <form method="post">
+                <div class="form-outline mb-4">
+                    <label class="form-label" asp-for="userFname">Name</label>
+                    <input type="text" asp-for="userFname" class="form-control" placeholder="Enter Your Full Name"/>
+                </div>
+
+                <div class="form-outline mb-4">
+                    <label class="form-label" asp-for="userName">Username</label>
+                    <input type="text" asp-for="userName" class="form-control" placeholder="Enter a valid username"/>
+                </div>
+
+                <div class="form-outline mb-4">
+                    <label class="form-label" asp-for="userEmail">Email</label>
+                    <input type="email" asp-for="userEmail" class="form-control" placeholder="Enter Your Email"/>
+                </div>
+
+                <div class="form-outline mb-4">
+                    <label class="form-label" asp-for="userPass">Password</label>
+                    <input type="password" asp-for="userPass" class="form-control" placeholder="Enter a Strong password"/>
+                </div>
+
+                <div class="mb-4 text-center">
+                    <label>Gender : </label>
+                    <label for="male">Male</label>
+                    <input asp-for="userGender" type="radio" value="false" id="male" />
+                    <label for="female">Female</label>
+                    <input asp-for="userGender" type="radio" value="true" id="female" />
+                </div>
+
+                <div class="text-center">
+                    <p>Already have account? <a asp-action="Login" >Login</a></p>
+                    <button type="submit" class="btn btn-outline-primary btn-block mb-3">Sign Up</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,77 @@
+﻿
+
+
+
+
+<!--
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="assets/images/logo2.png">
+    <title>Sign Up</title>
+    <link rel="stylesheet" type="text/css" href="~/css/signup.css" />
+</head>
+<body>
+    <div class="signup-container">
+        <h2><span class="h1-img"></span>SHAGHAF SIGN UP</h2>
+        <form action="/submit-signup-form" method="POST">
+            <label for="email">Name</label>
+            <input type="text" id="Name" name="Name" required>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirm-password">Confirm Password</label>
+            <input type="password" id="confirm-password" name="confirm-password" required>
+
+            <input type="submit" value="Sign Up">
+        </form>
+    </div>
+</body>
+</html>
+-->
+
+
+@model List<user>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="get"asp-controller="user" asp-action="search">
+    Enter part of the piece name 
+    <input type="text"name="searchKey"/>
+    <button type="submit">search</button>
+</form>
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>User ID</th>
+        <th>User Name</th>
+        <th>User Email</th>
+        <th>password </th>
+        <th></th>
+    </tr>
+    @foreach (user u in Model)
+    {
+        <tr>
+            <td>@u.UserId</td>
+            <td>@u.UserName</td>
+            <td>@u.UserEmail</td>
+           <td>@u.Password</td>
+            <td><a asp-action="Delete" asp-controller="user" asp-route-id="@u.UserId">Delete item </a></td>
+        </tr>
+
+
+    }
+
+
+
+
+
+</table>

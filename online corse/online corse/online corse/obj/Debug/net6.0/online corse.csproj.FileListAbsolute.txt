@@ -1,0 +1,195 @@
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.staticwebassets.runtime.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.exe
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.deps.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.runtimeconfig.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\online corse.pdb
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.AssemblyInfo.cs
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.online corse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.build.online corse.props
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.online corse.props
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.online corse.props
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\scopedcss\bundle\online corse.styles.css
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\scopedcss\projectbundle\online corse.bundle.scp.css
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online c.B568E5D1.Up2Date
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\refint\online corse.dll
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.pdb
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\online corse.genruntimeconfig.cache
+C:\Users\dell\Desktop\WEB prog\online corse\online corse\obj\Debug\net6.0\ref\online corse.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\appsettings.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.staticwebassets.runtime.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.exe
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.deps.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.runtimeconfig.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\online corse.pdb
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cs
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets\msbuild.online corse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets\msbuild.build.online corse.props
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.online corse.props
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.online corse.props
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\scopedcss\bundle\online corse.styles.css
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\scopedcss\projectbundle\online corse.bundle.scp.css
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online c.B568E5D1.Up2Date
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\refint\online corse.dll
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.pdb
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\online corse.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\online corse from sham sbehat\online corse\obj\Debug\net6.0\ref\online corse.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\appsettings.json
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.staticwebassets.runtime.json
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.exe
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.deps.json
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.runtimeconfig.json
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\online corse.pdb
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.RazorAssemblyInfo.cs
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.online corse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.build.online corse.props
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.online corse.props
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.online corse.props
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\scopedcss\bundle\online corse.styles.css
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\scopedcss\projectbundle\online corse.bundle.scp.css
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online c.B568E5D1.Up2Date
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\refint\online corse.dll
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.pdb
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\online corse.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\online corse\online corse\obj\Debug\net6.0\ref\online corse.dll

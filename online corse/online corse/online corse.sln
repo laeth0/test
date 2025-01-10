@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "online corse", "online corse\online corse.csproj", "{47F18AD3-BD2B-481E-88A0-9A759586279F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F18AD3-BD2B-481E-88A0-9A759586279F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F18AD3-BD2B-481E-88A0-9A759586279F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F18AD3-BD2B-481E-88A0-9A759586279F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F18AD3-BD2B-481E-88A0-9A759586279F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B6669B-B461-4835-AD1B-B74370E50AD1}
+	EndGlobalSection
+EndGlobal
